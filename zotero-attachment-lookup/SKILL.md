@@ -28,7 +28,8 @@ Do not use this skill for:
 
 Route nearby tasks as follows:
 - library maintenance: `zotero-library-organizer`
-- MCP failure recovery: `zotero-mcp-repair`
+- MCP transport/startup failure: use active Zotero integration diagnostics;
+  recover dormant repair playbooks only by exact slash/name request
 - explanation or paper reading: `explain`
 - literature review workflow: `literature-review-workflow`
 
